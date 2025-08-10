@@ -65,7 +65,7 @@ This project is pre-configured for [Vercel](https://vercel.com/) deployment.
 - Public repository for reproducibility and scholarly citation.
 - Full commit history preserved.
 - Original private archival repository referenced in the paper's Appendix/Provenance section.
-- Based on James Clerk Maxwell’s 1874 color triangle ([Maxwell, J.C., "On the Theory of Compound Colours," 1860](https://doi.org/10.1098/rstl.1860.0016)).
+- Based on James Clerk Maxwell’s 1874 color triangle ([Maxwell, J.C., "On the Theory of Compound Colours," 1860](https://doi.org/10.1098/rstl.1860.0005)).
 - Please cite the associated arXiv paper (link forthcoming).
 
 <details>
