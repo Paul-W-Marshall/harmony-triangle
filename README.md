@@ -1,4 +1,3 @@
-````markdown name=README.md
 # Harmony Triangle
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](./LICENSE)
@@ -122,4 +121,3 @@ Optionally, add screenshots or GIFs here, e.g.:
 
 ![Screenshot of Harmony Triangle Web App](./web/public/screenshot.png)
 -->
-````
